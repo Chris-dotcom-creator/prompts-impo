@@ -42,7 +42,7 @@
     "platform": "Instagram",
     "title": "KPIs semanales – GAC Instagram",
     "createdAt": "2025-05-20",
-    "updatedAt": "2025-05-27",
+    "updatedAt": "2026-06-11",
     "versions": [
       {
         "label": "v1.0",
@@ -52,7 +52,8 @@
       {
         "label": "v2.0",
         "createdAt": "2025-05-27",
-        "content": "Extrae los KPIs semanales de Instagram para GAC Ecuador desde el archivo adjunto.\n\nMétricas requeridas:\n- Alcance orgánico\n- Impresiones\n- Engagement rate (ER %)\n- Seguidores nuevos / netos\n- Reels plays promedio\n- Stories reach\n\nVariación vs semana anterior con flecha (↑ verde / ↓ rojo) y porcentaje.\nDestaca en negrita la métrica con mayor variación positiva."
+        "content": "Extrae los KPIs semanales de Instagram para GAC Ecuador desde el archivo adjunto.\n\nMétricas requeridas:\n- Alcance orgánico\n- Impresiones\n- Engagement rate (ER %)\n- Seguidores nuevos / netos\n- Reels plays promedio\n- Stories reach\n\nVariación vs semana anterior con flecha (↑ verde / ↓ rojo) y porcentaje.\nDestaca en negrita la métrica con mayor variación positiva.",
+        "rating": 2
       }
     ]
   },
