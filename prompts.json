@@ -5,32 +5,14 @@
     "type": "excel",
     "period": "mensual",
     "platform": "Instagram + Facebook",
-    "title": "Extracción KPIs mensuales – Geely",
+    "title": "ExtracciÃ³n KPIs mensuales â Geely",
     "createdAt": "2025-06-01",
     "updatedAt": "2025-06-01",
     "versions": [
       {
         "label": "v1.0",
         "createdAt": "2025-06-01",
-        "content": "Eres un analista de datos de marketing digital. Tu tarea es extraer los KPIs mensuales del reporte adjunto para Geely Ecuador.\n\nExtrae:\n- Alcance orgánico y pagado\n- Impresiones totales\n- Engagement rate (ER)\n- Nuevos seguidores\n- Interacciones por tipo (likes, comentarios, compartidos)\n- CTR de pauta\n- Inversión total vs. resultado\n\nFormato de salida: tabla con columnas Métrica | Valor | Var. vs mes anterior.\nSi hay datos de Instagram y Facebook, muéstralos por separado y luego el consolidado."
-      }
-    ]
-  },
-  {
-    "id": "mq9pxs30ubyg",
-    "brand": "geely",
-    "type": "ppt",
-    "period": "mensual",
-    "platform": "General",
-    "title": "Reporte PowerPoint mensual – Geely",
-    "createdAt": "2025-06-05",
-    "updatedAt": "2026-06-11",
-    "versions": [
-      {
-        "label": "v1.0",
-        "createdAt": "2025-06-05",
-        "content": "Eres un estratega de marketing. Con los datos del Excel de KPIs mensuales de Geely Ecuador, genera el contenido para un reporte ejecutivo en PowerPoint.\n\nEstructura de slides:\n1. Portada (marca, período, fecha)\n2. Resumen ejecutivo (3 bullets: highlight, oportunidad, acción)\n3. Métricas clave (tabla visual)\n4. Análisis de contenido (top 3 posts + por qué funcionaron)\n5. Recomendaciones (máx. 3 acciones concretas para el próximo mes)\n\nTono: constructivo, orientado a cliente, sin lenguaje de falla de agencia.",
-        "rating": 2
+        "content": "Eres un analista de datos de marketing digital. Tu tarea es extraer los KPIs mensuales del reporte adjunto para Geely Ecuador.\n\nExtrae:\n- Alcance orgÃ¡nico y pagado\n- Impresiones totales\n- Engagement rate (ER)\n- Nuevos seguidores\n- Interacciones por tipo (likes, comentarios, compartidos)\n- CTR de pauta\n- InversiÃ³n total vs. resultado\n\nFormato de salida: tabla con columnas MÃ©trica | Valor | Var. vs mes anterior.\nSi hay datos de Instagram y Facebook, muÃ©stralos por separado y luego el consolidado."
       }
     ]
   },
@@ -40,19 +22,19 @@
     "type": "excel",
     "period": "semanal",
     "platform": "Instagram",
-    "title": "KPIs semanales – GAC Instagram",
+    "title": "KPIs semanales â GAC Instagram",
     "createdAt": "2025-05-20",
     "updatedAt": "2026-06-11",
     "versions": [
       {
         "label": "v1.0",
         "createdAt": "2025-05-20",
-        "content": "Extrae los KPIs semanales de Instagram para GAC Ecuador desde el archivo adjunto. Métricas: alcance, impresiones, ER, seguidores nuevos, stories views, Reels plays.\n\nIncluye una fila de variación semana vs semana anterior (↑ / ↓ + %)."
+        "content": "Extrae los KPIs semanales de Instagram para GAC Ecuador desde el archivo adjunto. MÃ©tricas: alcance, impresiones, ER, seguidores nuevos, stories views, Reels plays.\n\nIncluye una fila de variaciÃ³n semana vs semana anterior (â / â + %)."
       },
       {
         "label": "v2.0",
         "createdAt": "2025-05-27",
-        "content": "Extrae los KPIs semanales de Instagram para GAC Ecuador desde el archivo adjunto.\n\nMétricas requeridas:\n- Alcance orgánico\n- Impresiones\n- Engagement rate (ER %)\n- Seguidores nuevos / netos\n- Reels plays promedio\n- Stories reach\n\nVariación vs semana anterior con flecha (↑ verde / ↓ rojo) y porcentaje.\nDestaca en negrita la métrica con mayor variación positiva.",
+        "content": "Extrae los KPIs semanales de Instagram para GAC Ecuador desde el archivo adjunto.\n\nMÃ©tricas requeridas:\n- Alcance orgÃ¡nico\n- Impresiones\n- Engagement rate (ER %)\n- Seguidores nuevos / netos\n- Reels plays promedio\n- Stories reach\n\nVariaciÃ³n vs semana anterior con flecha (â verde / â rojo) y porcentaje.\nDestaca en negrita la mÃ©trica con mayor variaciÃ³n positiva.",
         "rating": 2
       }
     ]
@@ -63,14 +45,14 @@
     "type": "ppt",
     "period": "mensual",
     "platform": "General",
-    "title": "Reporte ejecutivo mensual – Isuzu",
+    "title": "Reporte ejecutivo mensual â Isuzu",
     "createdAt": "2025-05-15",
     "updatedAt": "2026-06-11",
     "versions": [
       {
         "label": "v1.0",
         "createdAt": "2025-05-15",
-        "content": "Genera el contenido narrativo para el reporte mensual de Isuzu Ecuador. Usa los datos del Excel adjunto.\n\nConsiderations: Isuzu tiene una audiencia B2B (flotillas, construcción, agro) y B2C (pickup D-MAX). El tono es sólido, confiable, técnico pero accesible.\n\nSlides:\n1. Highlights del mes\n2. Performance de campañas activas\n3. Análisis de audiencia\n4. Próximos pasos y recomendaciones\n\nEvitar framing negativo. Cada dato bajo expectativa lleva contexto + acción.",
+        "content": "Genera el contenido narrativo para el reporte mensual de Isuzu Ecuador. Usa los datos del Excel adjunto.\n\nConsiderations: Isuzu tiene una audiencia B2B (flotillas, construcciÃ³n, agro) y B2C (pickup D-MAX). El tono es sÃ³lido, confiable, tÃ©cnico pero accesible.\n\nSlides:\n1. Highlights del mes\n2. Performance de campaÃ±as activas\n3. AnÃ¡lisis de audiencia\n4. PrÃ³ximos pasos y recomendaciones\n\nEvitar framing negativo. Cada dato bajo expectativa lleva contexto + acciÃ³n.",
         "rating": 2
       }
     ]
