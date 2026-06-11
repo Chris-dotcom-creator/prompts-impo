@@ -1,22 +1,5 @@
 [
   {
-    "id": "mq9pxs30oydw",
-    "brand": "geely",
-    "type": "excel",
-    "period": "mensual",
-    "platform": "Instagram + Facebook",
-    "title": "ExtracciÃ³n KPIs mensuales â Geely",
-    "createdAt": "2025-06-01",
-    "updatedAt": "2025-06-01",
-    "versions": [
-      {
-        "label": "v1.0",
-        "createdAt": "2025-06-01",
-        "content": "Eres un analista de datos de marketing digital. Tu tarea es extraer los KPIs mensuales del reporte adjunto para Geely Ecuador.\n\nExtrae:\n- Alcance orgÃ¡nico y pagado\n- Impresiones totales\n- Engagement rate (ER)\n- Nuevos seguidores\n- Interacciones por tipo (likes, comentarios, compartidos)\n- CTR de pauta\n- InversiÃ³n total vs. resultado\n\nFormato de salida: tabla con columnas MÃ©trica | Valor | Var. vs mes anterior.\nSi hay datos de Instagram y Facebook, muÃ©stralos por separado y luego el consolidado."
-      }
-    ]
-  },
-  {
     "id": "mq9pxs305or8",
     "brand": "gac",
     "type": "excel",
