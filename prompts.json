@@ -1,5 +1,20 @@
 [
   {
+    "id": "mqa11xkugwq",
+    "brand": "geely",
+    "type": "both",
+    "period": "mensual",
+    "platform": "Todas",
+    "title": "GEE - Reporte mensual",
+    "createdAt": "2026-06-11",
+    "versions": [
+      {
+        "label": "v1.0",
+        "content": "Te he adjuntado un prompt y dos archivos en las instrucciones de este poryecto para que me ayudes cada mes a generar la pestaña de KPIS de excel de las cuentas de Facebook, Instagram y TikTok y el reporte en el formato de presentación Power Point con los fondos, fuentes, colores y encabezados de Madison (mi agencia publicitaria). Revisa los archivos y el prompt y pregúntame lo que creas que haga falta en el prompt para que puedas ejecutar las tareas. También en este mensaje te adjunto los archivos de KPIs en excel y la presentación en Power Point del último reporte que presentamos el mes anterior."
+      }
+    ]
+  },
+  {
     "id": "mqa0qrei6ll",
     "brand": "geely",
     "type": "both",
