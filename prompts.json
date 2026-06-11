@@ -24,12 +24,13 @@
     "platform": "General",
     "title": "Reporte PowerPoint mensual – Geely",
     "createdAt": "2025-06-05",
-    "updatedAt": "2025-06-05",
+    "updatedAt": "2026-06-11",
     "versions": [
       {
         "label": "v1.0",
         "createdAt": "2025-06-05",
-        "content": "Eres un estratega de marketing. Con los datos del Excel de KPIs mensuales de Geely Ecuador, genera el contenido para un reporte ejecutivo en PowerPoint.\n\nEstructura de slides:\n1. Portada (marca, período, fecha)\n2. Resumen ejecutivo (3 bullets: highlight, oportunidad, acción)\n3. Métricas clave (tabla visual)\n4. Análisis de contenido (top 3 posts + por qué funcionaron)\n5. Recomendaciones (máx. 3 acciones concretas para el próximo mes)\n\nTono: constructivo, orientado a cliente, sin lenguaje de falla de agencia."
+        "content": "Eres un estratega de marketing. Con los datos del Excel de KPIs mensuales de Geely Ecuador, genera el contenido para un reporte ejecutivo en PowerPoint.\n\nEstructura de slides:\n1. Portada (marca, período, fecha)\n2. Resumen ejecutivo (3 bullets: highlight, oportunidad, acción)\n3. Métricas clave (tabla visual)\n4. Análisis de contenido (top 3 posts + por qué funcionaron)\n5. Recomendaciones (máx. 3 acciones concretas para el próximo mes)\n\nTono: constructivo, orientado a cliente, sin lenguaje de falla de agencia.",
+        "rating": 3
       }
     ]
   },
