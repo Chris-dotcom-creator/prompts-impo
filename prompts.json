@@ -1,28 +1,5 @@
 [
   {
-    "id": "mq9pxs305or8",
-    "brand": "gac",
-    "type": "excel",
-    "period": "semanal",
-    "platform": "Instagram",
-    "title": "KPIs semanales â GAC Instagram",
-    "createdAt": "2025-05-20",
-    "updatedAt": "2026-06-11",
-    "versions": [
-      {
-        "label": "v1.0",
-        "createdAt": "2025-05-20",
-        "content": "Extrae los KPIs semanales de Instagram para GAC Ecuador desde el archivo adjunto. MÃ©tricas: alcance, impresiones, ER, seguidores nuevos, stories views, Reels plays.\n\nIncluye una fila de variaciÃ³n semana vs semana anterior (â / â + %)."
-      },
-      {
-        "label": "v2.0",
-        "createdAt": "2025-05-27",
-        "content": "Extrae los KPIs semanales de Instagram para GAC Ecuador desde el archivo adjunto.\n\nMÃ©tricas requeridas:\n- Alcance orgÃ¡nico\n- Impresiones\n- Engagement rate (ER %)\n- Seguidores nuevos / netos\n- Reels plays promedio\n- Stories reach\n\nVariaciÃ³n vs semana anterior con flecha (â verde / â rojo) y porcentaje.\nDestaca en negrita la mÃ©trica con mayor variaciÃ³n positiva.",
-        "rating": 2
-      }
-    ]
-  },
-  {
     "id": "mq9pxs30a95g",
     "brand": "isuzu",
     "type": "ppt",
