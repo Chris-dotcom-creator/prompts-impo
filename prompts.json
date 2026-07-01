@@ -1,5 +1,20 @@
 [
   {
+    "id": "mr29v08w6lm",
+    "brand": "vw",
+    "type": "excel",
+    "period": "mensual",
+    "platform": "Facebook, Instagram, Linkedin y TikTok",
+    "title": "VW - REPORTE SEMANAL",
+    "createdAt": "2026-07-01",
+    "versions": [
+      {
+        "label": "v1.0",
+        "content": "Te he adjuntado un prompt y dos archivos para que me ayudes, cada semana, a generar la pestaña de KPIs en Excel para las cuentas de Facebook, Instagram, Linkedin y TikTok, así como el reporte en formato PowerPoint, respetando el diseño de Madison (mi agencia publicitaria), incluyendo los fondos, encabezados y el estilo general de la presentación.\n\nRevisa cuidadosamente el prompt y todos los archivos adjuntos. Antes de ejecutar las tareas, hazme todas las preguntas que consideres necesarias para completar o mejorar el prompt y asegurarte de que los entregables cumplan con el formato y nivel de calidad esperados."
+      }
+    ]
+  },
+  {
     "id": "mr29o0liqyo",
     "brand": "vw",
     "type": "excel",
