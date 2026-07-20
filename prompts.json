@@ -10,7 +10,8 @@
     "versions": [
       {
         "label": "v1.0",
-        "content": "\"Corré el PPT mensual de Isuzu.\""
+        "content": "\"Corré el PPT mensual de Isuzu.\"",
+        "rating": 5
       }
     ]
   },
