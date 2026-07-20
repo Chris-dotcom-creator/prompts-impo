@@ -1,5 +1,20 @@
 [
   {
+    "id": "mrtri4uve2p",
+    "brand": "gac",
+    "type": "ppt",
+    "period": "mensual",
+    "platform": "META, TK, IN",
+    "title": "GAC- DISPARADOR DE REPORTE MENSUAL",
+    "createdAt": "2026-07-20",
+    "versions": [
+      {
+        "label": "v1.0",
+        "content": "\"Corré el PPT mensual de GAC.\""
+      }
+    ]
+  },
+  {
     "id": "mrtrdv7df55",
     "brand": "gac",
     "type": "ppt",
