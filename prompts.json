@@ -1,5 +1,20 @@
 [
   {
+    "id": "mrtssx4chns",
+    "brand": "vw",
+    "type": "ppt",
+    "period": "mensual",
+    "platform": "META, TK, IN",
+    "title": "VW- DISPARADOR PPT MENSUAL",
+    "createdAt": "2026-07-20",
+    "versions": [
+      {
+        "label": "v1.0",
+        "content": "\"Corré el PPT mensual de vOLKSWAGEN ECUADOR."
+      }
+    ]
+  },
+  {
     "id": "mrtsqokp04w",
     "brand": "vw",
     "type": "ppt",
