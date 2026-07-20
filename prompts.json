@@ -1,5 +1,20 @@
 [
   {
+    "id": "mrtqy2ozy8d",
+    "brand": "gac",
+    "type": "excel",
+    "period": "semanal",
+    "platform": "META, TK, IN",
+    "title": "GAC- EXTRACCIÓN DE KPIS SEMANAL",
+    "createdAt": "2026-07-20",
+    "versions": [
+      {
+        "label": "v1.0",
+        "content": "Configura para GAC Ecuador el mismo flujo autónomo de extracción semanal de KPIs que ya dejamos funcionando para GAC.\n\nCuentas Windsor.ai a usar:\nFacebook (orgánico): 427441931374104 — GAC MOTOR Ecuador\nInstagram: 17841413642538614 — GAC ECUADOR (gac_ecuador)\nLinkedIn (orgánico): 109385439 — GAC ECUADOR\nTikTok (orgánico): _000nvF4bsRLK0Crq-fNdmpL0dJHbqe_Pp1r — GAC Ecuador\n\n\nAntes de nada, revisa que el conector de Windsor funciona correctamente busca en SharePoint un Excel maestro de KPIs de GAC equivalente al de GEEly/Isuzu/VW (búscalo en CLIENTES 2026/GAC/DIGITAL/REPORTES/ y variantes de nombre con \"KPIs GAC\"). Si no existe, dímelo y lo construimos desde cero con la misma estructura de 2 pestañas que uso en GAC e Isuzu (KPIS REPORTE SEMANAL, TOP POST SEMANAL MARCA PROPIA)\n\nMetodología (idéntica a GAC, ya validada):\n- Filtrar por fecha de publicación (lunes a domingo), no por fecha de interacción.\n- Cuenta completa (orgánico + pago) donde exista Meta Ads conectado; si no está conectado, calcular solo orgánico y dejar nota aclaratoria en Total Interacciones y ER.\n- Reels de Facebook: sumar post_video_total_reactions / post_video_social_actions_comment / post_video_social_actions_share aparte de los posts de feed normales.\n- Incluir Top 3 y Low 3 posts por red social con link/permalink real.\n\nPrograma la tarea como scheduled task recurrente, cada lunes a las 8:00 AM, con taskId \"GAC-kpis-semanal\", que entregue el Excel actualizado en el chat (no puedes escribir en SharePoint, así que preséntamelo para que yo lo suba).```"
+      }
+    ]
+  },
+  {
     "id": "mrtqasvlrjh",
     "brand": "geely",
     "type": "ppt",
