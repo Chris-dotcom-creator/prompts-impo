@@ -241,8 +241,8 @@
       },
       {
         "label": "v3.0",
-        "content": "Te he adjuntado un prompt y dos archivos para que me ayudes cada semana a generar la pestaña de KPIs de Excel de las cuentas de Facebook, Instagram y TikTok y el reporte en el formato de presentación Power Point con los fondos y encabezados de Madison (mi agencia publicitaria). Revisa los archivos y el prompt y pregúntame lo que creas que haga falta en el prompt para que puedas ejecutar las tareas.",
-        "rating": 5
+        "content": "Configura para Isuzu Ecuador el mismo flujo autónomo de extracción semanal de KPIs que ya dejamos funcionando para GAC. Antes que anda revisa que el conector de Windsor esté conectado y funcionando correctamente. \n\nCuentas Windsor.ai a usar:\n- facebook_organic: account_id \"560206633847572\"\n- instagram: account_id \"17841473293692212\"\n- linkedin_organic: account_id \"108331112\"\n- tiktok_organic: account_id \"_000xoZ6d3ko8GKhht77w-GwVIJz5Fa8G01-\"\n\nExcel maestro de referencia en SharePoint: 🛻 KPIs ISZ 2026.xlsx (CLIENTES 2026/ISUZU/DIGITAL/REPORTES/). Primero léelo completo, aísla en un archivo liviano las mismas 4 pestañas que usamos en GAC (KPIS REPORTE SEMANAL, TOP POST SEMANAL MARCA PROPIA, TOP POST SEMANAL COMPE) y prueba que SharePoint pueda leerlo sin error 406 antes de programar la tarea.\n\nMetodología (idéntica a GAC, ya validada):\n- Filtrar por fecha de publicación (lunes a domingo), no por fecha de interacción.\n- Cuenta completa (orgánico + pago) donde exista Meta Ads conectado; si no está conectado, calcular solo orgánico y dejar nota aclaratoria en Total Interacciones y ER.\n- Reels de Facebook: sumar post_video_total_reactions / post_video_social_actions_comment / post_video_social_actions_share aparte de los posts de feed normales.\n- Incluir Top 3 y Low 3 posts por red social con link/permalink real.\n\nPrograma la tarea como scheduled task recurrente, cada lunes a las 8:00 AM, con taskId \"isuzu-kpis-semanal\", que entregue el Excel actualizado en el chat (no puedes escribir en SharePoint, así que preséntamelo para que yo lo suba).\n```\n",
+        "rating": 4
       }
     ]
   },
