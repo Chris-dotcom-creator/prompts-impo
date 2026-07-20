@@ -10,7 +10,8 @@
     "versions": [
       {
         "label": "v1.0",
-        "content": "\"Corré el PPT mensual de GAC.\""
+        "content": "\"Corré el PPT mensual de GAC.\"",
+        "rating": 5
       }
     ]
   },
