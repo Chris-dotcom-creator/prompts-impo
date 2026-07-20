@@ -1,5 +1,20 @@
 [
   {
+    "id": "mrtscye0zin",
+    "brand": "isuzu",
+    "type": "ppt",
+    "period": "mensual",
+    "platform": "META, TK, IN",
+    "title": "ISZ- DISPARADOR DE PPT MENSUAL",
+    "createdAt": "2026-07-20",
+    "versions": [
+      {
+        "label": "v1.0",
+        "content": "\"Corré el PPT mensual de Isuzu.\""
+      }
+    ]
+  },
+  {
     "id": "mrtsbosfiy7",
     "brand": "isuzu",
     "type": "ppt",
