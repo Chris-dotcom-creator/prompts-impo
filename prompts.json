@@ -1,5 +1,20 @@
 [
   {
+    "id": "mrtrm53o445",
+    "brand": "geely",
+    "type": "ppt",
+    "period": "mensual",
+    "platform": "META, TK, IN",
+    "title": "GEE- DISPARADOR DE PPT MENSUAL",
+    "createdAt": "2026-07-20",
+    "versions": [
+      {
+        "label": "v1.0",
+        "content": "\"Corré el PPT mensual de Geely.\""
+      }
+    ]
+  },
+  {
     "id": "mrtri4uve2p",
     "brand": "gac",
     "type": "ppt",
