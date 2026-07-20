@@ -1,5 +1,20 @@
 [
   {
+    "id": "mrtpurvbkkt",
+    "brand": "geely",
+    "type": "ppt",
+    "period": "semanal",
+    "platform": "META, TK, IN",
+    "title": "GEE- GENERACIÓN DE PPT SEMANAL",
+    "createdAt": "2026-07-20",
+    "versions": [
+      {
+        "label": "v1.0",
+        "content": "Genera el PPT semanal de GEELY Ecuador para la Semana que corrersponde a la anterior de lunes a domingo, coloca las fechas, deben coincidir con las fechas de los kpis semanales que extrajiste, usando como plantilla de diseño el .pptx adjunto o que ya tienes en el contexto del proyecto (clonar fondos, tipografía y layout exactos) y los datos del Excel adjunto (KPIs + Top/Low posts + Top Post Competencia + Contenido Relevante Competencia).\n\nEstructura de 13 slides:\n1. Portada + tabla de KPIs por plataforma vs. semana anterior (única slide que menciona cifras de KPIs).\n2. Análisis narrativo por plataforma: bullets de máximo 2 líneas por red social, mencionando la variación, sin repetir cifras de la tabla.\n3. Rol de plataforma (previsto vs. real): una frase de análisis por plataforma, basada en KPIs de mejor desempeño + texto real de comentarios (para inferir si el consumo fue awareness, conversión, etc.).\n4. Comunidad: clasifica los comentarios reales de la semana en categorías (Ubicación, Mantenimiento, Quejas, Modelos Disponibles, Precio, Comentarios Positivos, Influencer, Colaboración), genera gráfico comparativo semana actual vs. anterior (arrancando desde esta semana, sin backfill histórico), párrafo de análisis comparativo, y bullets por red social.\n5. Tabla de comunidad (tendencia / insight clave / acción recomendada por plataforma + audiencia general): una frase de análisis según la tabla.\n6. Top posts (3, con métricas y \"por qué funcionó\") — usa imagen o video real de la publicación, no solo el link.\n7. Low posts (3, con métricas y \"por qué no funcionó\") — igual, con imagen/video real.\n8. Panorama de competidores: síntesis de lo que el equipo cargó en las pestañas manuales \"Top Post Competencia\" y \"Contenido Relevante Competencia\" — no inventes datos de competencia.\n9. Tabla de competidores + formatos que mejor funcionan (según el mismo insumo manual).\n10. Contexto del consumidor: perfil base reutilizable (no cambia semana a semana) + implicación estratégica actualizada con el contexto de esta semana — sin repetir KPIs ni info de slides anteriores.\n11. Oportunidades culturales y de mercado: investigación web real de esta semana (AEADE, calendario cultural Ecuador, noticias del sector automotriz), bullets de máximo 3 líneas para contexto cultural y para contexto de mercado, análisis en tabla, párrafo de implicación estratégica de máximo 3 líneas.\n12. Alerta semanal: tabla alerta / impacto / acción recomendada, basada en lo que arrojó el análisis de las slides anteriores (no repetir texto ya usado).\n13. Prioridades de la siguiente semana: tabla prioridad / objetivo / plataforma / acción, coherente con las alertas e implicaciones estratégicas ya generadas.\n\nRegla general para las 13 slides: ninguna slide de análisis debe repetir cifras de KPIs (solo la slide 1 las muestra) ni resumir el contenido de slides anteriores. Todo análisis debe basarse en dato real (KPIs propios, comentarios reales, insumo manual de competencia) o investigación real — nunca relleno genérico ni parafraseo.\n```"
+      }
+    ]
+  },
+  {
     "id": "mrtpnuwzwvg",
     "brand": "geely",
     "type": "excel",
