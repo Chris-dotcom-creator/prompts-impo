@@ -179,6 +179,8 @@ main{padding:24px}
 
 <div id="user-dropdown" class="user-dropdown">
   <div class="dropdown-info"><p style="font-weight:500">Madison Agencia</p><p>Sesión de equipo</p></div>
+  <button class="dropdown-item" onclick="window.open('bitacora.html','_self')">📋 Bitácora de cuentas</button>
+  <button class="dropdown-item" onclick="showBackupModal()">💾 Exportar respaldo</button>
   <button class="dropdown-item danger" onclick="doLogout()">&#x2192; Cerrar sesión</button>
 </div>
 
@@ -430,7 +432,7 @@ async function loadFromGitHub(){
     if(!res.ok) throw new Error(res.status);
     const data=await res.json();
     ghFileSha=data.sha;
-    const raw=atob(data.content.replace(/\n/g,''));prompts=JSON.parse(decodeURIComponent(Array.from(raw).map(c=>'%'+c.charCodeAt(0).toString(16).padStart(2,'0')).join('')));
+    const raw=atob(data.content.replace(/\n/g,''));prompts=JSON.parse(decodeURIComponent(escape(raw)));
     localStorage.setItem('madison_prompts',JSON.stringify(prompts));
     showSyncBadge('ok');
     return true;
